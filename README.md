@@ -3,7 +3,7 @@
 ## Project setup
 
 ```
-npm install xxxxxxxxxxxxxxx
+npm install 你kin 你擦
 ```
 
 ### Compiles and hot-reloads for development
