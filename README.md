@@ -3,7 +3,7 @@
 ## Project setup
 
 ```
-npm install 你kin 你擦
+npm install 你kin 你擦 主分支名 main
 ```
 
 ### Compiles and hot-reloads for development
